@@ -1,0 +1,92 @@
+html body{
+  margin:0;
+  padding:0;
+}
+.container{}
+
+.first-segment{
+  height: 12vh;
+  text-align: center;
+}
+
+.first-segment h1{
+    text-transform: uppercase;
+    font-size: 4vh;
+    color: black;
+  }
+.orange{
+  color: orange;
+}
+ul li{
+  font-size: 2.6vh;
+}
+h1{
+  text-transform: uppercase;
+  font-size: 3vh;
+}
+p{
+  font-size: 2.6vh;
+}
+.divisor{
+  background-color: orange;
+  height: 5px;
+}
+.row{
+  clear: both;
+}
+.col-60{
+  float: left;
+  width: 60%;
+  border-right: 10px;
+}
+.col-40{
+  float: left;
+  width: 40%;
+}
+.col-85{
+  float: left;
+  background-color: #f2edf2;
+  width: 80%;
+  margin-bottom: 10px;
+}
+.col-15{
+  float: left;
+  width: 15%;
+}
+.col-30{
+  float: left;
+  width: 30%;
+}
+.col-70{
+  float: left;
+  width: 70%;
+}
+.bold {
+  font-weight: bold;
+}
+.python, .html, .css, .js, .php{
+  text-transform: uppercase;
+  color: white;
+  font-size: 2.7vh;
+  padding: 2px;
+  border: 3px;
+  border-style: solid;
+  border-color: white;
+  background-color: #f0553c;
+  height: 20px;
+}
+.python{
+  width: 80%;
+}
+.html{
+  width: 70%
+}
+.css{
+  width: 55%;
+}
+.js{
+  width: 35%;
+}
+.php{
+  width: 20%;
+}

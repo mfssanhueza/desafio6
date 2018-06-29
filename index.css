@@ -2,6 +2,12 @@ html body{
   margin:0;
   padding:0;
 }
+.img-responsive{
+  border-radius: 50%;
+  max-width: 100%;
+  text-align: center;
+
+}
 .container{
   width: 100%;
   display: block;
@@ -16,7 +22,7 @@ html body{
   float:left;
 }
 .first-segment{
-  height: 12vh;
+
   text-align: center;
 }
 
